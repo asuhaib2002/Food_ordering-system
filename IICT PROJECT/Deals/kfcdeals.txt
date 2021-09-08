@@ -1,0 +1,76 @@
+Family Festival 1
+4 Krunch Burgers
+4 Pcs Chicken
+2 Dinner Rolls
+1.5 Ltr Drink
+
+Family Festival 2
+2 Zinger
+2 Krunch Burgers
+4 Pcs Chicken
+2 Dinner Rolls
+1.5 Ltr Drink
+
+Family Festival 3
+4 Zinger
+4 Pcs Chicken
+2 Dinner Rolls
+1.5 Ltr Drink
+
+Signature Boxes
+
+Crispy Box
+2 Pcs Hot&Crispy
+1 Regular Fries
+1 Regular Drink 
+1 Coleslaw
+
+Boneless Box
+4 Zinger Strips
+1 Coleslaw
+1 Fries
+1 Drink
+1 Dip
+1 Dinner Roll
+
+Wow Box
+1 Zinger Burger
+1Pc Chicken
+1 Fries
+1 Drink
+1 Coleslaw
+
+Crispy Duo Box
+5Pcs Hot&Crispy Chicken
+1 Large Fries 
+2 Drinks
+
+Xtreme Duo Box 
+2 Zingers
+2Pcs Hot&Crispy Chicken
+1 Large Fries
+2 Drinks
+
+Midnight Deals
+
+Midnight Deal 1
+1 Zinger Burger
+1 Regular Drink
+
+Midnight Deal 2
+2 Krunch Burgers
+2 Regular Drinks
+
+Midnight Deal 3
+1 Mighty Zinger
+1 Regular Drink
+
+
+
+Burgers
+Zinger
+Zinger Stacker
+Kentucky
+Mighty Zinger
+
+

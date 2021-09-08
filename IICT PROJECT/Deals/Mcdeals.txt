@@ -1,0 +1,136 @@
+Share Bags
+
+Chicken Value Share Bag
+1 Chicken Mac
+1 Mcchicken
+2 Spicy Chicken Buger
+6 Pcs Chicken Nuggets
+1 Large Drink
+
+Chicken Plus Share Bag
+2 Chicken Mag
+2 Mcchicken 
+6 Pcs Chicken Mcnuggets
+2 Medium fries
+1 Large Drink
+
+Burger(chicken)
+Chicken Mac
+Spicy Mccrispy
+Spicy Grand Chicken
+Fillet o Fish
+Mcchicken
+McArabia
+
+(Beef)
+Big Mac
+Mcroyale
+Double Cheese Burger
+Quarter Pounder
+
+
+Happy Meals
+
+Happy Meal Mcnuggets(4pc)
+Rs 470
+Happy Meal Beef Burger
+Rs 390
+Happy Meal Chicken Burger
+Rs 470
+
+Crispy Fried Chicken
+
+1 Pcs Fried Chicken
+Rs 270
+
+2 Pcs Fried Chicken With Drink
+Rs 495
+
+2 Pcs Fried Chicken Meal
+Rs 620
+
+3 Pcs Fried Chicken
+Rs 810
+
+9 Pcs Fried Chicken
+Rs 2000
+
+Value Meals
+Meal 1:
+1 Chicken Chapli Burger
+1 Regular Fries
+1 Regular Drink
+Rs 260
+
+Meal 2:
+1 Mini Mcroyale
+1 Regular Fries
+1 Regular Drink
+Rs 300
+
+Meal 3:
+1 Mini McArabia
+1 Regular Fries
+1 Regular Drink
+Rs 320
+
+Meal 4:
+1Double Chicken Chapli Burger 
+1 Regular Fries
+1 Regular Drink
+Rs 330
+
+Meal 5:
+1 Spicy Chicken Burger
+1 Regular Fries
+1 Regular Drink
+Rs 270
+
+Sides
+9 Pcs Chicken Mcnuggets
+Rs 580
+
+6 Pcs Chicken Mcnuggets
+Rs 440
+
+20 Pcs Chicken Mcnuggets
+Rs 990
+
+Mcfries
+Rs 210
+
+Desserts
+
+Strawberry Custard Pie 
+Rs 240
+
+Strawberry Sundae
+Rs 310
+
+Chocolate Sundae
+Rs 310
+
+MCflurry Oreo
+Rs 370
+
+Beverages
+
+Soft Drink
+Rs 200
+
+Shakes
+Rs 310
+
+Juices
+Rs 270
+
+Strawberry Mcfizz
+Rs 180
+
+Water bottle
+Rs 50
+
+
+
+
+

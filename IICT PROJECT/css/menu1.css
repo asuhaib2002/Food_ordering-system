@@ -1,0 +1,29 @@
+
+			img
+			{
+				margin: auto;
+				display:block;
+			}
+			
+			#bp1
+			{ 
+				height:30px;
+				width:270px;
+				background-color:green;
+				margin-bottom:25px;
+				margin-top: 25px;
+				color:rgb(240, 238, 238);
+			}
+
+			body
+			{
+			background-image:url(../LOGO/bpback.jpg);
+			background-attachment:fixed;
+			background-repeat:no-repeat;
+			background-size:100% 100%;
+			}
+            span
+            {
+                margin-top: 5px;
+                color: white;
+            }

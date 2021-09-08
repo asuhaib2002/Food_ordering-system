@@ -1,0 +1,32 @@
+body
+			{
+			background-image:url(../LOGO/pizzanew\ \(1\).jpeg);
+			background-attachment:fixed;
+			background-repeat:no-repeat;
+			background-size:100% 100%;
+			}
+			
+			#ph1
+			{ 
+				height:35px;
+				width:270px;
+				background-color:rgb(255, 255, 255);
+				margin-bottom:20px;
+                margin-top: 20px;
+				color:red;
+			}
+			
+			#menu
+			{
+				color:white;
+			}
+			
+			img
+			{
+				margin: auto;
+				display:block;
+			}
+			span
+			{
+				color:rgb(187, 255, 0);
+			}

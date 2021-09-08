@@ -1,0 +1,78 @@
+Deal 1:
+Regular Pizza 
+Rs 555.00
+
+Deal 2:
+Small Pizza 
+2 garlic Bread
+1 Cold Drinks
+Rs 349.00
+
+Deal 3:
+2 Small Pizza 
+Rs 449.00
+
+Deal 4:
+Large Pizza 
+6 Garlic Bread
+1 1.5 litre Drink
+Rs 1299.00
+
+Deal 5:
+Regular Pizza
+4 Garlic Bread
+2 Cold Drink
+Rs 799.00
+
+Starters
+Garlice bread
+Rs 165.00
+Garlic Bread Supreme
+Rs 235.00
+Chicken Wings
+Rs 300.00
+Salad
+Rs 550.00
+
+Pizza's 
+Fajita Sicilian
+Rs 479.00
+Chicken Fajita
+Rs 479.00
+Chicken Fajita Supreme
+Rs 479.00
+Chicken Supreme
+Rs 479.00
+Afgani Tikka
+Rs 479.00
+Spicy Ranch
+Rs 479.00
+Super Sicilian
+Rs 479.00
+Chicken Tikka
+Rs 479.00
+Chicken Tikka Supreme
+Rs 479.00
+Very Veggie
+Rs 479.00
+Chese Lover
+Rs 479.00 
+Creamy Melt
+Rs 479.00
+
+
+
+Sandwiches
+
+Mexican Sandwich
+Rs 565.00
+
+Desserts
+Chocolicious Brownie
+Rs 325.00
+
+Drinks
+Mineral Water
+Rs 100.00
+Cold Drinks
+Rs 100.00

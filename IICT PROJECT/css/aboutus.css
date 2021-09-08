@@ -1,0 +1,30 @@
+body
+{
+    background-image: url(../LOGO/aboutusback.jpeg);
+    background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+p
+{
+    font-family: sans-serif;
+}
+.aboutus
+{
+    padding: 50px;
+    background: rgb(255, 255, 255);
+    border: 0;
+    width: 60%;
+    height: 320px;
+    letter-spacing: 3px;
+    margin-top: 110px;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    opacity: 0.8;
+    border-radius: 5px;
+}
+h2
+{
+    margin-bottom: 20px;
+    font-family: sans-serif;
+}

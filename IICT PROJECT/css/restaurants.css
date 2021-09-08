@@ -1,0 +1,66 @@
+body
+{
+    background-image: url(../LOGO/restaurant.jpg);
+    background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+.restaurant
+{
+    padding: 10px;
+    background: black;
+    width: 450px;
+    height: 100%;
+    opacity: 0.9;
+    letter-spacing: 4px;
+    border:0;
+    cursor: pointer;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+h2
+{
+    color: white;
+    font-family: sans-serif;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.restaurant2
+{
+    padding: 10px;
+    background: rgb(0, 0, 0);
+    width: 450px;
+    height: 100%;
+    opacity: 0.9;
+    letter-spacing: 4px;
+    border:2px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.restaurant3
+{
+    padding: 10px;
+    background: rgb(0, 0, 0);
+    width: 450px;
+    height: 100%;
+    opacity: 0.9;
+    letter-spacing: 4px;
+    border:2;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.restaurant4
+{
+    padding: 10px;
+    background: rgb(0, 0, 0);
+    width: 450px;
+    height: 100%;
+    opacity: 0.9;
+    letter-spacing: 4px;
+    border:2;
+    margin-bottom: 15px;
+    margin-top:15px;
+    cursor: pointer;
+}

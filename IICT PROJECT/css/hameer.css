@@ -1,0 +1,146 @@
+			.curve
+			{
+				border-radius:10px;
+			}
+
+			.curve:hover
+			{
+				background-color:black;
+			}
+
+			img
+			{
+				margin: auto;
+				display:block;
+			}
+			
+			#bp1
+			{ 
+				height:30px;
+				width:270px;
+				background-color:green;
+				margin-bottom:25px;
+				margin-top: 25px;
+				color:rgb(5, 4, 4);
+			}
+
+			body
+			{
+			background-image:url(bpback3.jpg);
+			background-attachment:fixed;
+			background-repeat:no-repeat;
+			background-size:100% 100%;
+			}
+
+			span
+			{
+			color:rgb(12, 6, 6);
+			}
+
+			h1{color:rgb(5, 3, 3);        
+			}
+			#kfc1
+			{ 
+				height: 50px;
+				width: 270px;
+				background-color: red;
+				margin-bottom: 20px;
+				color: black;
+			}
+
+			body
+			{
+			background-image:url(../LOGO/kfcback.jpg);
+			background-attachment:fixed;
+			background-repeat:no-repeat;
+			background-size:100% 100%;
+			}
+
+			#menu
+			{
+			color:white;
+			}
+
+			span
+			{
+			color:white;
+			}
+
+			/*iitc,html*/
+
+			.curve
+			{
+			border-radius:10px;
+			}
+
+			.curve:hover
+			{
+			background-color:black;
+			}
+
+			h1{color:red}
+			/*menu3*/
+			
+			body
+			{
+			background-image:url(phback.jpg);
+			background-attachment:fixed;
+			background-repeat:no-repeat;
+			background-size:100% 100%;
+			}
+			
+			#ph1
+			{ 
+				height:35px;
+				width:270px;
+				background-color:white;
+				margin-bottom:20px;
+				color:red;
+			}
+			
+			#menu
+			{
+				color:white;
+			}
+			
+			img
+			{
+				margin: auto;
+				display:block;
+			}
+			span
+			{
+				color:gold;
+			}
+			/*menu 4*/
+			body
+			{
+			background-image:url(mcback.jpeg);
+			background-attachment:fixed;
+			background-repeat:no-repeat;
+			background-size:100% 100%;
+			}
+			
+			#mcd1
+			{ 
+				height:35px;
+				width:270px;
+				background-color:red;
+				margin-bottom:20px;
+				color:yellow;
+			}
+			
+			#menu
+			{
+				color:white;
+			}
+			
+			img
+			{
+				margin: auto;
+				display:block;
+			}
+			span
+			{
+				color:black;
+			}

@@ -1,0 +1,32 @@
+            body
+			{
+			background-image:url(../LOGO/mcback.jpeg);
+			background-attachment:fixed;
+			background-repeat:no-repeat;
+			background-size:100% 100%;
+			}
+			
+			#mcd1
+			{ 
+				height:35px;
+				width:270px;
+				background-color:red;
+				margin-bottom: 20px;
+                margin-top: 20px;
+				color:yellow;
+			}
+			
+			#menu
+			{
+				color:white;
+			}
+			
+			img
+			{
+				margin: auto;
+				display:block;
+			}
+			span
+			{
+				color:black;
+			}
